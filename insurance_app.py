@@ -23,7 +23,7 @@ Original file is located at
 # from sklearn.linear_model import LinearRegression
 # 
 # # Title
-# st.title("Insurance Prediction App")
+# st.title("Insurance Prediction App") 
 # 
 # # Load Dataset
 # df = pd.read_csv("insurance.csv")
